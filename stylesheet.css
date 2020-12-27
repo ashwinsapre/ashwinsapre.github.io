@@ -129,3 +129,6 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
